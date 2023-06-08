@@ -1,0 +1,18 @@
+{
+    "user": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com",
+        "city": "New York",
+        "state": "NY"
+    },
+    "openai": {
+        "key": "sk-1234",
+        "org": "org-1234",
+        "engine": "gpt-3.5-turbo"
+    },
+    "ibm": {
+        "key": "1234567890",
+        "url": "https://api.{location}.text-to-speech.watson.cloud.ibm.com/instances/1234567890"
+    }
+}
